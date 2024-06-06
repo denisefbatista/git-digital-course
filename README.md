@@ -2,4 +2,5 @@
 
 ## Gravando mudanças nos repositórios
 
-### Testes
+### comandos restores
+#### comando push
