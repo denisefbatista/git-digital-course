@@ -4,3 +4,4 @@
 
 ### comandos restores
 #### comando push
+#### comando pull
