@@ -5,4 +5,4 @@
 ### comandos restores
 #### comando push
 #### comando pull
-#### coMANDO fatch
+#### comando fatch
